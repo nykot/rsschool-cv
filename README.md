@@ -1,1 +1,1 @@
-Some text
+https://nykot.github.io/rsschool-cv/cv
